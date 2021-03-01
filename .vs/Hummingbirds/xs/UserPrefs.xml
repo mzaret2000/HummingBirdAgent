@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F67BE1E9-1D76-C5B0-C205-308A93A20441}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hummingbird/Scripts/Hummingbird.cs">
+    <Files>
+      <File FileName="Assets/Hummingbird/Scripts/Flower.cs" Line="124" Column="1" />
+      <File FileName="Assets/Hummingbird/Scripts/FlowerArea.cs" />
+      <File FileName="Assets/Hummingbird/Scripts/Hummingbird.cs" Line="349" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5a326823-8b16-4576-b613-0009c4e3a9f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
